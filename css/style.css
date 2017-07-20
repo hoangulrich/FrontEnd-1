@@ -1,0 +1,82 @@
+body
+{
+  margin-top: 70px;
+}
+
+.navbar-default
+{
+  background: #fff;
+  border: 0;
+  border-bottom: solid 2px #000;
+}
+
+.navbar-brand
+{
+  font-size: 20px;
+  color: #000 !important;
+  font-weight: bold;
+}
+
+#showcase h1
+{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+#showcase img
+{
+  margin-top: 20px;
+  margin-right: 60px;
+}
+
+#testimonial
+{
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../img/college.jpg);
+  padding: 50px 0 30px 0;
+  text-align: center;
+  margin-top: 40px;
+  background-attachment: fixed;
+}
+
+#testimonial p
+{
+  font-size: 26px;
+  color: #fff;
+}
+
+#testimonial p.customer
+{
+  font-size: 20px;
+  color: #f1f1f1;
+}
+
+#about
+{
+  margin-top: 30px;
+}
+
+#about img
+{
+  width: 90%;
+  margin-top: 50px;
+}
+
+#about2
+{
+  margin: 20px 0 60px 0;
+}
+
+#contact
+{
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../img/contact.jpg);
+  background-size: 100%;
+  color: #ffffff;
+  padding: 40px;
+  border-top: #990000 6px solid;
+  border-bottom: #990000 6px solid;
+}
+
+footer
+{
+  padding: 30px;
+}
