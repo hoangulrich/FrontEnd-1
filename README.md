@@ -1,2 +1,3 @@
-Go to hoangulrich.github.io <br />
-Description: front-end template.
+#A Front End Template <br />
+Go to https://hoangulrich.github.io/FrontEnd-1/ <br />
+Techstack: Bootstrap, html/css
