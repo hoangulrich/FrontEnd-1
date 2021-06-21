@@ -1,3 +1,4 @@
-## A Front End Template <br />
-Go to https://hoangulrich.github.io/FrontEnd-1/ <br />
-Techstack: Bootstrap, html/css, scrollrevealjs, jquery
+## A Front End Template using Scroll Reveal <br />
+Techstack: Bootstrap, html/css, scrollrevealjs, jquery. <br /> <br />
+Take a look at: <br /> https://hoangulrich.github.io/FrontEnd-1/ 
+
